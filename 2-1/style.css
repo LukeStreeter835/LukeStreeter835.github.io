@@ -3,12 +3,31 @@ body {
 }
 h1 {
     color: #45c4b0;
+    margin: 100px;
+}
+h2{
+    color: #45c4b0;
+    margin: 100px;
 }
 div{
-    margin: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 300px;
+    margin-right: 300px;
+
+}
+img{
+    object-fit: cover;
 }
 .blue {
     background-color: #BDE8E5;
+    padding-left: 10px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+}
+.pink {
+    background-color: #F9CFE7;
     padding-left: 10px;
     padding-top: 50px;
     padding-bottom: 50px;
@@ -18,5 +37,6 @@ div{
     display:block;
     margin-left: auto;
     margin-right: auto;
+    text-align: center;
 }
 
