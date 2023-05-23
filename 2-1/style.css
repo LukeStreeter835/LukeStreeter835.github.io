@@ -33,6 +33,12 @@ img{
     padding-bottom: 50px;
 
 }
+.yellow{
+    background-color: #F6EE99;
+    padding-left: 10px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
 .center{
     display:block;
     margin-left: auto;
