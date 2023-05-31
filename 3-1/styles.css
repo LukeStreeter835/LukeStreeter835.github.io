@@ -1,0 +1,42 @@
+.lefticon{
+    position: absolute;
+    width: 75px;
+    height: 36px;
+    left: 127px;
+    top: 34px;
+
+    font-family: 'Campton';
+    font-size: 25.886px;
+    line-height: 30px;
+
+    color: #3D3D3D;
+}
+.rightbar{
+    position: absolute;
+    width: 398px;
+    height: 17px;
+    left: 855px;
+    top: 44px;
+
+    font-family: 'Campton';
+    font-size: 12px;
+    line-height: 14px;
+
+    color: #3D3D3D;
+
+}
+.signin{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 103px;
+    height: 36px;
+    left: 1291px;
+    top: 34px;
+
+    border: 1px solid #031CFF;
+    border-radius: 100px;
+}
+.center{
+    text-align: center;
+}
