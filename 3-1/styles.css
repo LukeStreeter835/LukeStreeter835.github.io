@@ -1,6 +1,6 @@
 .lefticon{
     position: absolute;
-    width: 75px;
+    width: 100px;
     height: 36px;
     left: 127px;
     top: 34px;
@@ -15,7 +15,7 @@
     position: absolute;
     width: 398px;
     height: 17px;
-    left: 855px;
+    left: 1400px;
     top: 44px;
 
     font-family: 'Campton';
@@ -31,12 +31,164 @@
     position: absolute;
     width: 103px;
     height: 36px;
-    left: 1291px;
+    left: 1800px;
     top: 34px;
 
     border: 1px solid #031CFF;
     border-radius: 100px;
+    padding-left: 25px;
+    padding-top: 8px;
 }
 .center{
     text-align: center;
+}
+.topimage{
+    position: absolute;
+    width: 100%;
+    height: auto;
+    left: 40px;
+    top: 99px;
+}
+.blueborder{
+    position: absolute;
+    width: 700px;
+    height: 1000px;
+    left: 1300px;
+    top: 99px;
+
+background: #031CFF;
+mix-blend-mode: multiply;
+}
+h1{
+    position: absolute;
+width: 400px;
+height: 93px;
+left: 341px;
+top: 350px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 78.9191px;
+line-height: 92px;
+
+border-bottom: #FFFFFF;
+border-bottom-style: solid;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+}
+.rebutton{
+    position: absolute;
+width: 251px;
+height: 40px;
+left: 341px;
+top: 526px;
+
+background: #031CFF;
+border-radius: 100px;
+color: #FFFFFF;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 18px;
+line-height: 21px;
+text-align: center;
+padding-top: 20px;
+}
+.watch{
+    box-sizing: border-box;
+
+position: absolute;
+width: 251px;
+height: 54px;
+left: 613px;
+top: 526px;
+
+border: 3px solid #FFFFFF;
+border-radius: 100px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 18px;
+line-height: 21px;
+
+padding-left: 70px;
+padding-top: 15px;
+
+color: #FFFFFF;
+}
+.mount{
+    position: absolute;
+width: 600px;
+height: auto;
+left: 150px;
+top: 1100px;
+
+}
+.feat{
+    position: absolute;
+width: 284px;
+height: 26px;
+left: 900px;
+top: 1300px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 22px;
+line-height: 26px;
+
+letter-spacing: 30px;
+text-transform: uppercase;
+
+color: #031CFF;
+}
+.fdiv{
+    margin-left: 900px;
+    margin-top: 1500px;
+    border-style: solid;
+    width: 750px;
+}
+.fdivv{
+    margin-left: 900px;
+    margin-top: 1700px;
+
+    width: 750px;
+}
+.featimg{
+    width: 200px;
+    height:auto;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 34px;
+    line-height: 40px;
+    float: left;
+
+    color: #0B0E2D;
+}
+.ftext{
+
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 34px;
+line-height: 40px;
+color: #0B0E2D;
+}
+.fsub{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+
+color: #9597A6;
 }
